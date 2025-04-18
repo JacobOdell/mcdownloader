@@ -17,7 +17,7 @@ python
 1. Edit MOD_LINKS with your mods
 2. Edit MINECRAFT_VERSION with your desired version
 3. Edit MODLOADER with your desired modloader
-4. 
+4. `python download.py`
 
 # Known bugs
 
